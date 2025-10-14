@@ -1,6 +1,5 @@
-package br.thullyoo.desafio_tecnico_java.model.fuelpump;
+package br.thullyoo.desafio_tecnico_java.model;
 
-import br.thullyoo.desafio_tecnico_java.model.fueltype.FuelType;
 import jakarta.persistence.*;
 
 @Table(name = "TB_FUEL_PUMP")

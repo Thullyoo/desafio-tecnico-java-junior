@@ -1,4 +1,4 @@
-package br.thullyoo.desafio_tecnico_java.model.fueltype;
+package br.thullyoo.desafio_tecnico_java.model;
 
 import jakarta.persistence.*;
 

@@ -1,9 +1,7 @@
-package br.thullyoo.desafio_tecnico_java.model.refueling;
+package br.thullyoo.desafio_tecnico_java.model;
 
-import br.thullyoo.desafio_tecnico_java.model.fuelpump.FuelPump;
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
-import org.springframework.data.annotation.CreatedDate;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
