@@ -1,4 +1,6 @@
 package br.thullyoo.desafio_tecnico_java.dto;
 
-public record FuelTypeRequest(String name, Double pricePerLiter) {
+import java.math.BigDecimal;
+
+public record FuelTypeRequest(String name, BigDecimal pricePerLiter) {
 }
